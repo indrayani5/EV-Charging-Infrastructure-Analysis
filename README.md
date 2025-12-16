@@ -45,3 +45,14 @@ Predictive modeling for user demand and station maintenance.
 Integration of real-time charging data for dynamic analysis.
 
 Expansion to include geographic and demographic factors affecting EV adoption.
+
+🧑‍💻 Author
+
+Indrayani Bhagat
+
+📍 Pune, India
+
+🔗 LinkedIn Profile - https://www.linkedin.com/in/indrrayani-bhagat-056b24354
+
+
+
