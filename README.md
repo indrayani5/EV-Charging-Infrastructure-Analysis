@@ -1,10 +1,10 @@
 # EV-Charging-Infrastructure-Analysis
 
-EV Charging Infrastructure Analysis
+🚗EV Charging Infrastructure Analysis
 
 This repository contains a comprehensive analysis of EV charging infrastructure, providing insights into station distribution, capacity, user patterns, and sustainability metrics.
 
-Key Metrics from the Analysis:
+🔑Key Metrics from the Analysis:
 
 Total Stations: 5,000
 
@@ -16,7 +16,7 @@ Parking Spots: 28K
 
 Average Rating: 3.99
 
-Highlights:
+• Highlights:
 
 Charger Types: Distribution among AC Level 1, AC Level 2, and DC Fast Chargers.
 
@@ -26,7 +26,7 @@ Maintenance Frequency: Stations maintained quarterly, monthly, or annually.
 
 Renewable Energy Integration: Almost half of stations use renewable energy sources.
 
-Repository Contents:
+• Repository Contents:
 
 Data: Raw and cleaned datasets used for analysis.
 
@@ -34,11 +34,11 @@ Notebooks: Exploratory Data Analysis (EDA) and visualizations.
 
 Dashboards: Interactive visualizations for insights on capacity, usage, and availability.
 
-Objective:
+• Objective:
 
 Provide actionable insights for city planners, EV companies, and sustainability enthusiasts to optimize EV infrastructure deployment and improve user experience.
 
-Future Work:
+🔮Future Work:
 
 Predictive modeling for user demand and station maintenance.
 
